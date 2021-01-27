@@ -19,3 +19,13 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+
+
+
+img {
+    /*change to something better
+    when you start wring
+    the markup obviously*/
+    width:100px;
+    height:auto;
+}
